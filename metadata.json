@@ -1,0 +1,6 @@
+{
+  "name": "Fútbol Español - Հայերեն Իսպաներեն 50 Հարց",
+  "description": "50 futbol preguntas en español con traducción al armenio, trucos de conjugación de verbos (Presente vs Indefinido) y juego interactivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
